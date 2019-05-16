@@ -1,0 +1,1 @@
+exports.baseUrl = "https://www.instagram.com/explore/tags"
