@@ -6,5 +6,5 @@ kebutuhan:
 - npm
 
 instalasi
-1. git clone https://github.com/AslamPangestu/test-scrap-hastag/
+1. git clone https://github.com/AslamPangestu/test-scrap-hastag.git
 2. npm install
